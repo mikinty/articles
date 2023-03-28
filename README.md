@@ -5,6 +5,10 @@
 - [Justin's Startup Resources](https://justin-duan.notion.site/Startup-Resources-428ab173fca94d9a8dcc381a06f10804)
 - [Vitalik's Blog](https://vitalik.ca/index.html)
 
+## ML
+
+- [How Stable Diffusion Works](https://stable-diffusion-art.com/how-stable-diffusion-work/)
+
 ## History
 
 - [Philippe II, Duke of Orleans and Regent of France, his crazy debaucherous lifestyle](https://www.tellerreport.com/life/2021-01-23-%0A---the-true-story-of-the-orgies-of-philippe-d-orl%C3%A9ans--the-%22debauched-regent%22%0A--.rJb8s_vFyO.html)
