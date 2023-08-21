@@ -5,6 +5,7 @@
 - [Justin's Startup Resources](https://justin-duan.notion.site/Startup-Resources-428ab173fca94d9a8dcc381a06f10804)
 - [Vitalik's Blog](https://vitalik.ca/index.html)
 - [Scathing Piece on David "D-Sol" Solomon](https://nymag.com/intelligencer/article/david-solomon-goldman-sachs-profile.html): Really funny
+- [Forbes Self-Made Score](https://www.forbes.com/sites/jonathanponciano/2020/09/08/self-made-score/?sh=6583e39741e4): Not all billionaires are made equal
 
 ## ML
 
