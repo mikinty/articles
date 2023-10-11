@@ -10,6 +10,7 @@
 ## Money
 
 - [Wealth Levels Explained](https://www.reddit.com/r/ifiwonthelottery/comments/9qv4e1/post_on_the_different_levels_of_wealth_that_i/): Famous post from Reddit
+- [Nicolas DeMeyer Steals $1.2m of wine from DJ Solomon](https://www.nytimes.com/2018/12/12/style/goldman-sachs-wine-thief-nicolas-demeyer.html#commentsContainer)
 
 ## CS
 
