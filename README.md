@@ -7,6 +7,10 @@
 - [Scathing Piece on David "D-Sol" Solomon](https://nymag.com/intelligencer/article/david-solomon-goldman-sachs-profile.html): Really funny
 - [Forbes Self-Made Score](https://www.forbes.com/sites/jonathanponciano/2020/09/08/self-made-score/?sh=6583e39741e4): Not all billionaires are made equal
 
+## Money
+
+- [Wealth Levels Explained](https://www.reddit.com/r/ifiwonthelottery/comments/9qv4e1/post_on_the_different_levels_of_wealth_that_i/): Famous post from Reddit
+
 ## CS
 
 - [How Reddit built `r/place`](https://www.redditinc.com/blog/how-we-built-rplace/): Really good systems design primer
