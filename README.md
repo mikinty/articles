@@ -23,6 +23,7 @@
 ## History
 
 - [Philippe II, Duke of Orleans and Regent of France, his crazy debaucherous lifestyle](https://www.tellerreport.com/life/2021-01-23-%0A---the-true-story-of-the-orgies-of-philippe-d-orl%C3%A9ans--the-%22debauched-regent%22%0A--.rJb8s_vFyO.html)
+- [War photographers and flirting with death](https://www.theguardian.com/media/2011/jun/18/war-photographers-special-report)
 
 ## Food
 
