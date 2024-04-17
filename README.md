@@ -20,6 +20,7 @@
 ## ML
 
 - [How Stable Diffusion Works](https://stable-diffusion-art.com/how-stable-diffusion-work/)
+- [Andrej Kaparthy's Zero to Hero Neural Network Guide](https://karpathy.ai/zero-to-hero.html): Really good for understanding how NNs work underneath, and how PyTorch works.
 
 ## History
 
