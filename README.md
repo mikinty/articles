@@ -30,3 +30,7 @@
 ## Food
 
 - [How chocolate is made](https://beantobarworld.com/myths-faq/the-difference-between-a-chocolatier-and-chocolate-maker)
+
+## Biology (?)
+
+- [Reptile intelligence tier list](https://www.reddit.com/r/reptiles/comments/wyotr9/my_reptile_intelligence_tiger_list_in_my_personal/): Not really an article but I think funny
