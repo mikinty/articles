@@ -7,6 +7,7 @@
 - [Scathing Piece on David "D-Sol" Solomon](https://nymag.com/intelligencer/article/david-solomon-goldman-sachs-profile.html): Really funny
 - [Forbes Self-Made Score](https://www.forbes.com/sites/jonathanponciano/2020/09/08/self-made-score/?sh=6583e39741e4): Not all billionaires are made equal
 - [Wine and fraud](https://www.grubstreet.com/article/omar-khan-wine-tastings-charged-with-fraud.html): And how a rentech billionaire coasts
+- [Deciding when to invest in a company (Mindbody) ft. Bessemer](https://www.bvp.com/memos/mindbody): There is survivorship bias in these memos, but still worth a read
 
 ## Money
 
