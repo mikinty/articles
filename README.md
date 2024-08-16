@@ -18,6 +18,7 @@
 ## CS
 
 - [How Reddit built `r/place`](https://www.redditinc.com/blog/how-we-built-rplace/): Really good systems design primer
+- [`npm` protest](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code)
 
 ## ML
 
