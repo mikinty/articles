@@ -37,3 +37,7 @@
 ## Biology (?)
 
 - [Reptile intelligence tier list](https://www.reddit.com/r/reptiles/comments/wyotr9/my_reptile_intelligence_tiger_list_in_my_personal/): Not really an article but I think funny
+
+## Art
+
+- [Lawrence Alma-Tadema](https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema): He has a lot of romanticized historical paintings, which are intricate and beautiful. But he is not highly regarded as his works are more eye-candy than "influential." But I personally really like how he imagined the past and it is very fun to look at
