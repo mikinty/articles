@@ -41,3 +41,7 @@
 ## Art
 
 - [Lawrence Alma-Tadema](https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema): He has a lot of romanticized historical paintings, which are intricate and beautiful. But he is not highly regarded as his works are more eye-candy than "influential." But I personally really like how he imagined the past and it is very fun to look at
+
+## Pop Culture
+
+- [https://en.wikipedia.org/wiki/Blue_Cat_Blues](Really depressing Tom & Jerry episode on chasing a girl who cares about wealth)
