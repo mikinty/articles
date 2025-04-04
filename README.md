@@ -47,6 +47,7 @@
 ## Pop Culture
 
 - [https://en.wikipedia.org/wiki/Blue_Cat_Blues](Really depressing Tom & Jerry episode on chasing a girl who cares about wealth)
+- [Ding Liren plays Rg6!! to win the tiebreak of WCC 2023](https://www.youtube.com/live/GzA5uarugrg?si=nKQUekpZSW9rNkSE&t=16075)
 
 ## Chess
 
