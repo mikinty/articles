@@ -46,10 +46,10 @@
 
 ## Pop Culture
 
-- [https://en.wikipedia.org/wiki/Blue_Cat_Blues](Really depressing Tom & Jerry episode on chasing a girl who cares about wealth)
-- [Ding Liren plays Rg6!! to win the tiebreak of WCC 2023](https://www.youtube.com/live/GzA5uarugrg?si=nKQUekpZSW9rNkSE&t=16075)
+- [Really depressing Tom & Jerry episode on chasing a girl who cares about wealth](https://en.wikipedia.org/wiki/Blue_Cat_Blues)
+
 
 ## Chess
 
 - [Anish Giri on the mindset of not wanting to play tomorrow and giving up (Nepo vs. Magnus 2021 WCC)](https://www.youtube.com/live/9kVb6CgxhtM?si=2_YrDYNImJLkjPOy&t=9240)
-
+  [Ding Liren plays Rg6!! to win the tiebreak of WCC 2023](https://www.youtube.com/live/GzA5uarugrg?si=nKQUekpZSW9rNkSE&t=16075)
