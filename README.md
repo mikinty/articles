@@ -9,6 +9,7 @@
 - [Wine and fraud](https://www.grubstreet.com/article/omar-khan-wine-tastings-charged-with-fraud.html): And how a rentech billionaire coasts
 - [Deciding when to invest in a company (Mindbody) ft. Bessemer](https://www.bvp.com/memos/mindbody): There is survivorship bias in these memos, but still worth a read
 - [Jamie Dimon slams Remote Work](https://www.youtube.com/watch?v=6glAn-Gj9LM)
+- [Erdős problems](https://www.erdosproblems.com/start): If you want to try to solve some unsolved math problems
 
 ## Money
 
